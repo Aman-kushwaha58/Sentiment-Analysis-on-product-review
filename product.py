@@ -1,3 +1,4 @@
+!pip install pandas numpy scikit-learn nltk transformers torch
 import pandas as pd
 import numpy as np
 import nltk
